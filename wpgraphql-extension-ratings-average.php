@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: wpgraphql extension ratings average
- * Plugin URI: https://github.com
+ * Plugin URI: https://github.com/Papput/wpgraphql-extension-ratings-average
  * Version: 0.0.1
  * Author: Gunnar Abrahamsson
  * Author URI: https://github.com/papput
